@@ -1,0 +1,3 @@
+CREATE DATABASE Startup_Strategy_Analysis;
+
+USE Startup_Strategy_Analysis;

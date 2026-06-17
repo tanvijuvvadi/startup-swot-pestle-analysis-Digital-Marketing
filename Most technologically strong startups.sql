@@ -1,0 +1,3 @@
+SELECT startup_name, technological_impact_score
+FROM startup_analysis
+ORDER BY technological_impact_score DESC;

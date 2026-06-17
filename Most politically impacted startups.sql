@@ -1,0 +1,3 @@
+SELECT startup_name, political_impact_score
+FROM startup_analysis
+ORDER BY political_impact_score DESC;

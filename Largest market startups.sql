@@ -1,0 +1,3 @@
+SELECT startup_name, market_size_estimate
+FROM startup_analysis
+ORDER BY market_size_estimate DESC;
